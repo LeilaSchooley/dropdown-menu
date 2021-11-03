@@ -1,0 +1,10 @@
+.hide{
+    visibility: hidden;
+}
+.menu{
+    display: flex;
+    flex-direction: column;
+}
+#show-menu{
+    cursor: pointer;
+}
